@@ -13,7 +13,7 @@ Rate Limiting is configured either following way in this project.
 
 1. Default property based value
 Properties defined to default refilling rate and interval with following properties:
-  - ratelimit.default.refill.minutes To hold the default refill rate, right now set to 1 mins
+  - ratelimit.default.refill.minutes To hold the default refill rate, right now set to 1 mins.
   - ratelimit.defult.tokens  To hold default token for non DB configured combination value 1.
 
 2. User+API key based Value
