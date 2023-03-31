@@ -9,7 +9,7 @@ Techniques Used: Leaky Bucket
 	
 Rate Limiting is configured either following way in this project.
 		1. Default property based value.
-		2. User+API key based Value
+		2. User+API key based Value.
 
 1. Default property based value
 Properties defined to default refilling rate and interval with following properties:
